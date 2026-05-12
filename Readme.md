@@ -1,6 +1,6 @@
 # IDvACC Vatglasses Repository
 
-THIS REPOSITORY IS FOR INTERNAL REFERENCE AND TESTING. To commit changes to the live Vatglasses site make a PR in the repo [HERE](https://github.com/lennycolton/vatglasses-data) and copy `wa.json` AND `wi,json` from this repo.
+THIS REPOSITORY IS FOR INTERNAL REFERENCE AND TESTING. To commit changes to the live Vatglasses site make a PR in the repo [HERE](https://github.com/lennycolton/vatglasses-data) and copy `wa.json` AND `wi.json` from this repo.
 
 ### AOR  
 IDvACC is Responsible for providing service to the following Areas:  
