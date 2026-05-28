@@ -1,6 +1,6 @@
 {
   "airspace": [
-    { "id": "UAMN_UTA",
+    { "id": "UAMN",
       "group": "WAAF",
       "owner": ["MO","AN","WAAF"],
       "sectors": [
@@ -21,7 +21,7 @@
         }
       ]
     },
-    { "id": "UBLI_UTA",
+    { "id": "UBLI",
       "group": "WAAF",
       "owner": ["BI","WAAF"],
       "sectors": [
@@ -43,7 +43,7 @@
         }
       ]
     },
-    { "id": "UBPN_UTA",
+    { "id": "UBPN",
       "group": "WAAF",
       "owner": ["BN","WAAF"],
       "sectors": [
@@ -790,7 +790,7 @@
         }
       ]
     },
-    { "id": "UMKS_UTA",
+    { "id": "UMKS",
       "group": "WAAF",
       "owner": ["MS","BI","WAAF"],
       "sectors": [
@@ -811,7 +811,7 @@
         }
       ]
     },
-    { "id": "UMNO_UTA",
+    { "id": "UMNO",
       "group": "WAAF",
       "owner": ["MO","AN","WAAF"],
       "sectors": [
@@ -834,7 +834,7 @@
         }
       ]
     },
-    { "id": "UNSA_UTA",
+    { "id": "UNSA",
       "group": "WAAF",
       "owner": ["NA","BI","WAAF"],
       "sectors": [
@@ -857,7 +857,7 @@
         }
       ]
     },
-    { "id": "UPKN_UTA",
+    { "id": "UPKN",
       "group": "WAAF",
       "owner": ["PN","BN","WAAF"],
       "sectors": [
@@ -877,7 +877,7 @@
         }
       ]
     },
-    { "id": "UPUA_UTA",
+    { "id": "UPUA",
       "group": "WAAF",
       "owner": ["PA","WAAF"],
       "sectors": [
@@ -902,7 +902,7 @@
         }
       ]
     },
-    { "id": "USBY_UTA",
+    { "id": "USBY",
       "group": "WAAF",
       "owner": ["SY","BI","WAAF"],
       "sectors": [
@@ -969,7 +969,7 @@
         }
       ]
     },
-    { "id": "WAAA_TMA",
+    { "id": "Ujung Pandang",
       "group": "APP",
       "owner": ["AAA","MS","BI","WAAF"],
       "sectors": [
@@ -1254,7 +1254,7 @@
         },
         {
           "min": 150,
-          "max": 245,
+          "max": 244,
           "points": [
             ["-025211","1204723"],
             ["-060209","1214937"],
@@ -1310,7 +1310,7 @@
         }
       ]
     },
-    { "id": "WABB_TMA",
+    { "id": "Biak_TMA",
       "group": "APP",
       "owner": ["BBA","PA","WAAF"],
       "sectors": [
@@ -1365,7 +1365,7 @@
         }
       ]
     },
-    { "id": "WADD_E_TMA",
+    { "id": "Bali (East)",
       "group": "APP",
       "owner": ["DDAE","DDAW","BI","WAAF"],
       "sectors": [
@@ -1463,7 +1463,7 @@
         }
       ]
     },
-    { "id": "WADD_W_TMA",
+    { "id": "Bali (West)",
       "group": "APP",
       "owner": ["DDAW","BI","WAAF"],
       "sectors": [
@@ -1622,7 +1622,7 @@
         }
       ]
     },
-    { "id": "WAEE_TMA",
+    { "id": "Ternate_TMA",
       "group": "PROC",
       "owner": ["EEA","MO","AN","WAAF"],
       "sectors": [
@@ -1639,7 +1639,7 @@
         }
       ]
     },
-    { "id": "WAFF_TMA",
+    { "id": "Palu_TMA",
       "group": "PROC",
       "owner": ["FFA","FFT","MO","AN","WAAF"],
       "sectors": [
@@ -1666,7 +1666,7 @@
         }
       ]
     },
-    { "id": "WAGI_TMA",
+    { "id": "Pangkalan Bun_TMA",
       "group": "PROC",
       "owner": ["GIA","PN","BN","WAAF"],
       "sectors": [
@@ -2013,6 +2013,18 @@
             ["-081829","1102300"],
             ["-082500","1104600"]
           ]
+        },
+        {
+          "min": 245,
+          "max": 299,
+          "points": [
+            ["-072300","1102300"],
+            ["-071300","1085430"],
+            ["-074031","1083846"],
+            ["-075500","1090000"],
+            ["-081829","1102300"],
+            ["-072300","1102300"]
+          ]
         }
       ]
     },
@@ -2149,7 +2161,7 @@
         }
       ]
     },
-    { "id": "WAKK_TMA",
+    { "id": "Merauke_TMA",
       "group": "PROC",
       "owner": ["KKT","PA","WAAF"],
       "sectors": [
@@ -2251,7 +2263,7 @@
         }
       ]
     },
-    { "id": "WALL_TMA",
+    { "id": "Balikpapan_TMA",
       "group": "TMA",
       "owner": ["LLA","BN","WAAF"],
       "sectors": [
@@ -2382,7 +2394,7 @@
         }
       ]
     },
-    { "id": "WAMG_TMA",
+    { "id": "Gorontalo_TMA",
       "group": "PROC",
       "owner": ["MGA","MGT","MO","AM","WAAF"],
       "sectors": [
@@ -2399,7 +2411,7 @@
         }
       ]
     },
-    { "id": "WAMM_TMA",
+    { "id": "Manado_TMA",
       "group": "PROC",
       "owner": ["MMA","MO","AN","WAAF"],
       "sectors": [
@@ -2440,7 +2452,7 @@
         }
       ]
     },
-    { "id": "WAPP_TMA",
+    { "id": "Ambon_TMA",
       "group": "PROC",
       "owner": ["PPA","AN","MO","WAAF"],
       "sectors": [
@@ -2525,7 +2537,7 @@
         }
       ]
     },
-    { "id": "WAQQ_TMA",
+    { "id": "Tarakan",
       "group": "PROC",
       "owner": ["QQA","BN","WAAF"],
       "sectors": [
@@ -3044,7 +3056,7 @@
         }
       ]
     },
-    { "id": "WARR_E_TMA",
+    { "id": "Surabaya (East)",
       "group": "APP",
       "owner": ["RRAE","RRAW","SY","BI","WAAF"],
       "sectors": [
@@ -3066,7 +3078,7 @@
         }
       ]
     },
-    { "id": "WARR_W_TMA",
+    { "id": "Surabaya (West)",
       "group": "APP",
       "owner": ["RRAW","SY","BI","WAAF"],
       "sectors": [
@@ -3120,7 +3132,7 @@
         }
       ]
     },
-    { "id": "WASS_TMA",
+    { "id": "Sorong_TMA",
       "group": "APP",
       "owner": ["SSA","PA","WAAF"],
       "sectors": [
@@ -3137,7 +3149,7 @@
         }
       ]
     },
-    { "id": "WATT_TMA",
+    { "id": "Kupang_TMA",
       "group": "PROC",
       "owner": ["TTA","NA","BI","WAAF"],
       "sectors": [
@@ -3279,7 +3291,7 @@
         }
       ]
     },
-    { "id": "WAWW_TMA",
+    { "id": "Kendari_TMA",
       "group": "",
       "owner": ["WWA","MO","AN","WAAF"],
       "sectors": [
@@ -3335,7 +3347,7 @@
         }
       ]
     },
-    { "id": "WAWW_CTR",
+    { "id": "Kendari_CTR",
       "group": "",
       "owner": ["WWA","MO","AN","WAAF"],
       "sectors": [
@@ -3686,7 +3698,7 @@
         }
       ]
     },
-    { "id": "WABB_CTR",
+    { "id": "Biak_CTR",
       "group": "CTR",
       "owner": ["BBA","PA","WAAF"],
       "sectors": [
@@ -4158,7 +4170,7 @@
         }
       ]
     },
-    { "id": "WAEE_CTR",
+    { "id": "Ternate_CTR",
       "group": "",
       "owner": ["EEA","MO","AN","WAAF"],
       "sectors": [
@@ -4328,7 +4340,7 @@
         }
       ]
     },
-    { "id": "WAFF_CTR",
+    { "id": "Palu_CTR",
       "group": "",
       "owner": ["FFA","FFT","MO","AN","WAAF"],
       "sectors": [
@@ -4554,7 +4566,7 @@
         }
       ]
     },
-    { "id": "WAGI_CTR",
+    { "id": "Pangkalan Bun_CTR",
       "group": "CTR",
       "owner": ["GIA","PN","BN","WAAF"],
       "sectors": [
@@ -4866,7 +4878,7 @@
         }
       ]
     },
-    { "id": "WAHS_CTR",
+    { "id": "Semarang",
       "group": "",
       "owner": ["HSA","RRAW","SY","BI","WAAF"],
       "sectors": [
@@ -5118,7 +5130,7 @@
         }
       ]
     },
-    { "id": "WAKK_CTR",
+    { "id": "Merauke_CTR",
       "group": "PROC",
       "owner": ["KKT","PA","WAAF"],
       "sectors": [
@@ -5203,7 +5215,7 @@
         }
       ]
     },
-    { "id": "WALL_CTR",
+    { "id": "Balikpapan_CTR",
       "group": "",
       "owner": ["LLAF","LLA","BN","WAAF"],
       "sectors": [
@@ -5373,7 +5385,7 @@
         }
       ]
     },
-    { "id": "WAMG_CTR",
+    { "id": "Gorontalo_CTR",
       "group": "",
       "owner": ["MGA","MGT","MO","AN","WAAF"],
       "sectors": [
@@ -5458,7 +5470,7 @@
         }
       ]
     },
-    { "id": "WAMM_CTR",
+    { "id": "Manado_CTR",
       "group": "CTR",
       "owner": ["MMA","MO","AN","WAAF"],
       "sectors": [
@@ -5713,7 +5725,7 @@
         }
       ]
     },
-    { "id": "WAPP_ATZ",
+    { "id": "Pattimura",
       "group": "PROC",
       "owner": ["PPT","PPA","AN","MO","WAAF"],
       "sectors": [
@@ -5798,7 +5810,7 @@
         }
       ]
     },
-    { "id": "WAPP_CTR",
+    { "id": "Ambon_CTR",
       "group": "PROC",
       "owner": ["PPA","AN","MO","WAAF"],
       "sectors": [
@@ -5883,7 +5895,7 @@
         }
       ]
     },
-    { "id": "WAQQ_CTR",
+    { "id": "Tarakan",
       "group": "PROC",
       "owner": ["QQA","BN","WAAF"],
       "sectors": [
@@ -6070,7 +6082,7 @@
         }
       ]
     },
-    { "id": "WARA_CTR",
+    { "id": "Malang",
       "group": "TWR",
       "owner": ["RAT","RRAW","SY","BI","WAAF"],
       "sectors": [
@@ -6163,7 +6175,7 @@
         }
       ]
     },
-    { "id": "WARR_CTR",
+    { "id": "Surabaya",
       "group": "APP",
       "owner": ["RRAF","RRAW","RRAE","SY","BI","WAAF"],
       "sectors": [
@@ -6230,7 +6242,7 @@
         }
       ]
     },
-    { "id": "WASS_CTR",
+    { "id": "Sorong_CTR",
       "group": "APP",
       "owner": ["SSA","PA","WAAF"],
       "sectors": [
@@ -6315,7 +6327,7 @@
         }
       ]
     },
-    { "id": "WATC_ATZ",
+    { "id": "Frans Xaverius Seda_ATZ",
       "group": "TWR",
       "owner": ["TCT","TTA","NS","MS","BI","WAAF"],
       "sectors": [
@@ -6400,7 +6412,7 @@
         }
       ]
     },
-    { "id": "WATE_ATZ",
+    { "id": "H. Hasan Aroeboesman_ATZ",
       "group": "TWR",
       "owner": ["TET","NA","BI","WAAF"],
       "sectors": [
@@ -6655,7 +6667,7 @@
         }
       ]
     },
-    { "id": "WATT_ATZ",
+    { "id": "El Tari_ATZ",
       "group": "TWR",
       "owner": ["TTT","TTA","NA","WAAF"],
       "sectors": [
@@ -6740,7 +6752,7 @@
         }
       ]
     },
-    { "id": "WATT_CTR",
+    { "id": "Kupang_CTR",
       "group": "PROC",
       "owner": ["TTA","TTT","NA","BI","WAAF"],
       "sectors": [
@@ -9466,7 +9478,7 @@
         }
       ]
     },
-    { "id": "WAAA_TMA Class G / Makassar Information",
+    { "id": "Ujung Pandang Class G / Makassar Information",
       "group": "WAAZ",
       "owner": ["WAAZ","AAA","MS","BI","WAAF"],
       "sectors": [
@@ -9623,7 +9635,7 @@
         }
       ]
     },
-    { "id": "WAAA_TMA Class G / Bali Information",
+    { "id": "Ujung Pandang Class G / Bali Information",
       "group": "WADZ",
       "owner": ["WADZ","AAA","MS","BI","WAAF"],
       "sectors": [
@@ -9752,7 +9764,7 @@
         }
       ]
     },
-    { "id": "WAAA_TMA Class G / Balikpapan Informatiom",
+    { "id": "Ujung Pandang Class G / Balikpapan Informatiom",
       "group": "WALZ",
       "owner": ["WALZ","AAA","MS","BI","WAAF"],
       "sectors": [
@@ -9966,7 +9978,7 @@
         }
       ]
     },
-    { "id": "WAFF_TMA Class G / Balikpapan Information",
+    { "id": "Palu_TMA Class G / Balikpapan Information",
       "group": "WALZ",
       "owner": ["WALZ","FFT","MO","WAAF"],
       "sectors": [
@@ -9982,7 +9994,7 @@
         }
       ]
     },
-    { "id": "WAFF_TMA Class G / Makassar Information",
+    { "id": "Palu_TMA Class G / Makassar Information",
       "group": "WAAZ",
       "owner": ["WAAZ","FFT","MO","WAAF"],
       "sectors": [
@@ -10083,7 +10095,7 @@
         }
       ]
     },
-    { "id": "WAMM_TMA Class G",
+    { "id": "Manado_TMA Class G",
       "group": "WAAZ",
       "owner": ["WAAZ","MMA","MO","AN","WAAF"],
       "sectors": [
@@ -10177,7 +10189,7 @@
         }
       ]
     },
-    { "id": "WAMG_TMA Class G",
+    { "id": "Gorontalo_TMA Class G",
       "group": "WAAZ",
       "owner": ["WAAZ","MGT","MO","WAAF"],
       "sectors": [
@@ -10430,7 +10442,7 @@
         }
       ]
     },
-    { "id": "WAEE_TMA Class G",
+    { "id": "Ternate_TMA Class G",
       "group": "WAAZ",
       "owner": ["WAAZ","EET","MO","WAAF"],
       "sectors": [
@@ -10685,7 +10697,7 @@
         }
       ]
     },
-    { "id": "WAPP_TMA Class G",
+    { "id": "Ambon_TMA Class G",
       "group": "WAAZ",
       "owner": ["WAAZ","PPA","AN","MO","WAAF"],
       "sectors": [
@@ -10845,7 +10857,7 @@
         }
       ]
     },
-    { "id": "WALL_TMA Class G / Balikpapan Information",
+    { "id": "Balikpapan_TMA Class G / Balikpapan Information",
       "group": "WALZ",
       "owner": ["WALZ","LLA","BN","WAAF"],
       "sectors": [
@@ -11028,7 +11040,7 @@
         }
       ]
     },
-    { "id": "WALL_TMA Class G / Makassar Information",
+    { "id": "Balikpapan_TMA Class G / Makassar Information",
       "group": "WAAZ",
       "owner": ["WAAZ","LLA","BN","WAAF"],
       "sectors": [
@@ -11488,7 +11500,7 @@
         }
       ]
     },
-    { "id": "WAQQ_TMA Class G",
+    { "id": "Tarakan Class G",
       "group": "WALZ",
       "owner": ["WALZ","QQA","BN","WAAF"],
       "sectors": [
@@ -12979,7 +12991,7 @@
         }
       ]
     },    
-    { "id": "WAGI_TMA Class G",
+    { "id": "Pangkalan Bun_TMA Class G",
       "group": "WALZ",
       "owner": ["WALZ","GIA","PN","BN","WAAF"],
       "sectors": [
@@ -13288,7 +13300,7 @@
         }
       ]
     },
-    { "id": "WARR_E_TMA Class G",
+    { "id": "Surabaya (East) Class G",
       "group": "WADZ",
       "owner": ["WADZ","RRAE","RRAW","RRA","SY","BI","WAAF"],
       "sectors": [
@@ -13336,7 +13348,7 @@
         }
       ]
     },
-    { "id": "WARR_W_TMA Class G",
+    { "id": "Surabaya (West) Class G",
       "group": "WADZ",
       "owner": ["WADZ","RRAW","RRA","SY","BI","WAAF"],
       "sectors": [
@@ -13397,7 +13409,7 @@
         }
       ]
     },
-    { "id": "WADD_W_TMA Class G",
+    { "id": "Bali (West) Class G",
       "group": "WADZ",
       "owner": ["WADZ","DDAW","BI","WAAF"],
       "sectors": [
@@ -13471,7 +13483,7 @@
         }
       ]
     },
-    { "id": "WADD_E_TMA Class G",
+    { "id": "Bali (East) Class G",
       "group": "WADZ",
       "owner": ["WADZ","DDAE","DDAW","BI","WAAF"],
       "sectors": [
@@ -13572,7 +13584,7 @@
         }
       ]
     },
-    { "id": "WATT_TMA Class G",
+    { "id": "Kupang_TMA Class G",
       "group": "WADZ",
       "owner": ["WADZ","TTA","NA","BI","WAAF"],
       "sectors": [
@@ -13702,7 +13714,7 @@
         }
       ]
     },
-    { "id": "WAWW_TMA Class G",
+    { "id": "Kendari_TMA Class G",
       "group": "WAAZ",
       "owner": ["WAAZ","WWA","MO","AN","WAAF"],
       "sectors": [
@@ -13831,7 +13843,7 @@
         }
       ]
     },
-    { "id": "WASS_TMA Class G",
+    { "id": "Sorong_TMA Class G",
       "group": "WAJZ",
       "owner": ["WAJZ","SSA","PA","WAAF"],
       "sectors": [
@@ -13923,7 +13935,7 @@
         }
       ]
     },
-    { "id": "WABB_TMA Class G",
+    { "id": "Biak_TMA Class G",
       "group": "WAJZ",
       "owner": ["WAJZ","BBA","PA","WAAF"],
       "sectors": [
@@ -14236,7 +14248,7 @@
         }
       ]
     },
-    { "id": "WAKK_TMA Class G",
+    { "id": "Merauke_TMA Class G",
       "group": "WAJZ",
       "owner": ["WAJZ","KKT","PA","WAAF"],
       "sectors": [
@@ -14730,7 +14742,7 @@
       "group": "TMA",
       "frequency": "121.000",
       "type": "APP",
-      "colours": [{"hex": "#"}]  
+      "colours": [{"hex": "#AA3200"}]  
     },
     "TTA":{
       "callsign": "Kupang Approach",
@@ -14807,7 +14819,8 @@
       "": "Ground"
     },
     "TWR": {
-      "": "Tower"
+      "": "Tower",
+      "I": "Aerodrome Information"
     },
     "APP": {
       "": "Approach"
@@ -14816,7 +14829,7 @@
       "": "Departure"
     },
     "CTR": {
-      "": "Control"
+      "": "Radar"
     }
   },
   "airports": {
