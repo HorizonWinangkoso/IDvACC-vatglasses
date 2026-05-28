@@ -2,7 +2,7 @@
   "airspace": [
     { "id": "UAMN",
       "group": "WAAF",
-      "owner": ["MO","AN","WAAF"],
+      "owner": ["AN","MO","WAAF"],
       "sectors": [
         {
           "min": 245,
@@ -1624,7 +1624,7 @@
     },
     { "id": "Ternate_TMA",
       "group": "PROC",
-      "owner": ["EEA","MO","AN","WAAF"],
+      "owner": ["EET","MO","AN","WAAF"],
       "sectors": [
         {
           "min": 100,
@@ -1822,7 +1822,8 @@
         }
       ]
     },
-    { "id": "WAHH_MCA",
+    { "id": "Yogyakarta",
+      "comment": "",
       "group": "APP",
       "owner": ["HHA","SY","BI","WAAF","fss/ASEAS"],
       "sectors": [
@@ -1970,7 +1971,8 @@
         }
       ]
     },
-    { "id": "WAHH_MCA WITHIN SY",
+    { "id": "Yogyakarta",
+      "comment": "WAHH_MCA WITHIN USBY",
       "group": "",
       "owner": ["HHA","SY","BI","WAAF","fss/ASEAS"],
       "sectors": [
@@ -2028,7 +2030,7 @@
         }
       ]
     },
-    { "id": "WAHQ_TMA",
+    { "id": "Solo_TMA",
       "group": "TWR",
       "owner": ["HQT","HQA","HHA","BI","SY","WAAF"],
       "sectors": [
@@ -2101,7 +2103,7 @@
         }
       ]
     },
-    { "id": "WAJJ_TMA",
+    { "id": "Jayapura_TMA",
       "group": "APP",
       "owner": ["JJA","PA","WAAF"],
       "sectors": [
@@ -2430,7 +2432,7 @@
         }
       ]
     },
-    { "id": "WAOO_TMA",
+    { "id": "Banjarmasin_TMA",
       "group": "",
       "owner": ["OOA","BN","WAAF"],
       "sectors": [
@@ -3206,7 +3208,7 @@
         }
       ]
     },
-    { "id": "WAUU_CTR",
+    { "id": "Manokwari_CTR",
       "group": "",
       "owner": ["UUT","BBA","PA","WAAF"],
       "sectors": [
@@ -3432,7 +3434,7 @@
         }
       ]
     },
-    { "id": "WAYY_TMA",
+    { "id": "Timika_TMA",
       "group": "APP",
       "owner": ["YYA","PA","WAAF"],
       "sectors": [
@@ -3449,7 +3451,7 @@
         }
       ]
     },
-    { "id": "WAYY_CTR",
+    { "id": "Timika_CTR",
       "group": "APP",
       "owner": ["YYA","PA","WAAF"],
       "sectors": [
@@ -3534,7 +3536,7 @@
         }
       ]
     },
-    { "id": "WAAA_CTR",
+    { "id": "Ujung Pandang_CTR",
       "group": "CTR",
       "owner": ["AAAF","AAA","MS","BI","WAAF"],
       "sectors": [
@@ -3783,7 +3785,7 @@
         }
       ]
     },
-    { "id": "WABI_CTR",
+    { "id": "Biak_CTR",
       "group": "PROC",
       "owner": ["BIT","PA","WAAF"],
       "sectors": [
@@ -3868,7 +3870,7 @@
         }
       ]
     },
-    { "id": "WADB_ATZ",
+    { "id": "Salahuddin_ATZ",
       "group": "",
       "owner": ["DBT","MS","BI","WAAF"],
       "sectors": [
@@ -3953,7 +3955,7 @@
         }
       ]
     },
-    { "id": "WADD_CTR",
+    { "id": "Bali_CTR",
       "group": "",
       "owner": ["DDAF","DDAW","BI","WAAF"],
       "sectors": [
@@ -4007,7 +4009,7 @@
         }
       ]
     },
-    { "id": "WADL_CTR",
+    { "id": "Lombok_CTR",
       "group": "",
       "owner": ["DLA","DLT","DDAE","DDAW","BI","WAAF"],
       "sectors": [
@@ -4068,7 +4070,7 @@
         }
       ]
     },
-    { "id": "WADS_ATZ",
+    { "id": "Kaharuddin_ATZ",
       "group": "TWR",
       "owner": ["DST","MS","BI","WAAF"],
       "sectors": [
@@ -4153,7 +4155,7 @@
         }
       ]
     },
-    { "id": "WADY_ATZ",
+    { "id": "Banyuwangi_ATZ",
       "group": "",
       "owner": ["DYT","DDAW","BI","WAAF"],
       "sectors": [
@@ -4172,7 +4174,7 @@
     },
     { "id": "Ternate_CTR",
       "group": "",
-      "owner": ["EEA","MO","AN","WAAF"],
+      "owner": ["EET","MO","AN","WAAF"],
       "sectors": [
         {
           "min": 0,
@@ -4255,9 +4257,9 @@
         }
       ]
     },
-    { "id": "WAEH_ATZ",
+    { "id": "Weda Bay_ATZ",
       "group": "",
-      "owner": ["EHT","EEA","MO","AM","WAAF"],
+      "owner": ["EHT","EET","MO","AM","WAAF"],
       "sectors": [
         {
           "min": 0,
@@ -4425,7 +4427,7 @@
         }
       ]
     },
-    { "id": "WAFW_ATZ",
+    { "id": "Syukuran Aminuddin_ATZ",
       "group": "",
       "owner": ["FWT","FFA","FFT","MO","WAAF"],
       "sectors": [
@@ -4510,7 +4512,7 @@
         }
       ]
     },
-    { "id": "WAGG_CTR",
+    { "id": "Palangkaraya_CTR",
       "group": "",
       "owner": ["GGT","OOA","PN","BN","WAAF"],
       "sectors": [
@@ -4623,7 +4625,7 @@
         }
       ]
     },
-    { "id": "WAGS_ATZ",
+    { "id": "Sampit_ATZ",
       "group": "",
       "owner": ["GST","GIA","PN","BN","WAAF"],
       "sectors": [
@@ -4708,7 +4710,7 @@
         }
       ]
     },
-    { "id": "WAHH_ATZ",
+    { "id": "Yogyakarta_ATZ",
       "group": "TWR",
       "owner": ["HHT","HHA","SY","BI","WAAF"],
       "sectors": [
@@ -4793,7 +4795,7 @@
         }
       ]
     },
-    { "id": "WAHL_ATZ",
+    { "id": "Tunggul Wulung_ATZ",
       "group": "TWR",
       "owner": ["HLT","HHA","SY","BI","WAAF"],
       "sectors": [
@@ -4973,7 +4975,7 @@
         }
       ]
     },
-    { "id": "WAJJ_CTR",
+    { "id": "Jayapura_CTR",
       "group": "",
       "owner": ["JJA","PA","WAAF"],
       "sectors": [
@@ -5045,7 +5047,7 @@
         }
       ]
     },  
-    { "id": "WAJO_ATZ",
+    { "id": "Oksibil_ATZ",
       "group": "",
       "owner": ["JOT","PA","WAAF"],
       "sectors": [
@@ -5300,7 +5302,7 @@
         }
       ]
     },
-    { "id": "WALS_ATZ",
+    { "id": "Samarinda_ATZ",
       "group": "TWR",
       "owner": ["LST","LLA","BN","WAAF"],
       "sectors": [
@@ -5555,7 +5557,7 @@
         }
       ]
     },
-    { "id": "WAOC_ATZ",
+    { "id": "Bersujud_ATZ",
       "group": "TWR",
       "owner": ["OCT","OOA","BN","WAAF"],
       "sectors": [
@@ -5640,7 +5642,7 @@
         }
       ]
     },
-    { "id": "WAOO_CTR",
+    { "id": "Banjarmasin_CTR",
       "group": "",
       "owner": ["OOA","BN","WAAF"],
       "sectors": [
@@ -5980,7 +5982,7 @@
         }
       ]
     },
-    { "id": "WAQT_ATZ",
+    { "id": "Tarakan_ATZ",
       "group": "TWR",
       "owner": ["QTT","QQA","BN","WAAF"],
       "sectors": [
@@ -5997,7 +5999,7 @@
         }
       ]
     },
-    { "id": "WAQM_ATZ",
+    { "id": "Kol. Robert Atty Besing",
       "group": "TWR",
       "owner": ["QMT","QQA","BN","WAAF"],
       "sectors": [
@@ -6156,7 +6158,7 @@
         }
       ]
     },
-    { "id": "WARD_ATZ",
+    { "id": "Dhoho",
       "group": "TWR",
       "owner": ["RDT","RRAW","SY","BI","WAAF"],
       "sectors": [
@@ -6497,7 +6499,7 @@
         }
       ]
     },
-    { "id": "WATK_ATZ",
+    { "id": "Tambolaka_ATZ",
       "group": "TWR",
       "owner": ["TKT","NA","BI","WAAF"],
       "sectors": [
@@ -6582,7 +6584,7 @@
         }
       ]
     },
-    { "id": "WATO_CTR",
+    { "id": "Labuan Bajo_CTR",
       "group": "TWR",
       "owner": ["TOT","NA","BI","WAAF"],
       "sectors": [
@@ -6668,8 +6670,7 @@
       ]
     },
     { "id": "El Tari_ATZ",
-      "group": "TWR",
-      "owner": ["TTT","TTA","NA","WAAF"],
+      "owner": [],
       "sectors": [
         {
           "min": 0,
@@ -6837,8 +6838,7 @@
         }
       ]
     },
-    { "id": "WATU_ATZ",
-      "group": "",
+    { "id": "Umbu Mehang Kunda_ATZ",
       "owner": ["TUT","NA","BI","WAAF"],
       "sectors": [
         {
@@ -6922,8 +6922,7 @@
         }
       ]
     },
-    { "id": "WAVV_ATZ",
-      "group": "",
+    { "id": "Wamena_ATZ",
       "owner": ["VVT","PA","WAAF"],
       "sectors": [
         {
@@ -11056,7 +11055,7 @@
         }
       ]
     },
-    { "id": "WAOO_TMA Class G / Balikpapan Information",
+    { "id": "Banjarmasin_TMA Class G / Balikpapan Information",
       "group": "WALZ",
       "owner": ["WALZ","OOA","BN","WAAF"],
       "sectors": [
@@ -11484,7 +11483,7 @@
         }
       ]
     },
-    { "id": "WAOO_TMA Class G / Bali Information",
+    { "id": "Banjarmasin_TMA Class G / Bali Information",
       "group": "WADZ",
       "owner": ["WADZ","OOA","BN","WAAF"],
       "sectors": [
@@ -14133,7 +14132,7 @@
         }
       ]
     },
-    { "id": "WAJJ_TMA Class G",
+    { "id": "Jayapura_TMA Class G",
       "group": "WAJZ",
       "owner": ["WAJZ","JJA","PA","WAAF"],
       "sectors": [
@@ -14425,7 +14424,7 @@
         }
       ]
     },
-    { "id": "WAYY_TMA Class G",
+    { "id": "Timika_TMA Class G",
       "group": "WAJZ",
       "owner": ["WAJZ","YYA","PA","WAAF"],
       "sectors": [
@@ -14579,7 +14578,7 @@
       "frequency": "132.500",
       "type": "CTR",
       "extend": true,
-      "colours": [{"hex": "#69AB84 "}] 
+      "colours": [{"hex": "#2C774B"}] 
     },
     "MO":{
       "callsign": "Ujung Pandang Radar",
@@ -14631,6 +14630,22 @@
       "pre": ["WAJZ"],
       "type": "CTR",
       "colours":[{"hex": "#FFFFFF"}]
+    },
+    "BBA":{
+			"callsign": "Jayapura Radar",
+      "pre": ["WABB"],
+      "group": "TMA",
+      "frequency": "121.200",
+      "type": "APP",
+      "colours": [{"hex": "#CAAAE6"}]
+    },
+    "SSA":{
+			"callsign": "Jayapura Radar",
+      "pre": ["WASS"],
+      "group": "TMA",
+      "frequency": "124.200",
+      "type": "APP",
+      "colours": [{"hex": "#CAAAE6"}]      
     },
 		"RRAE":{
 			"callsign": "Surabaya Radar",
@@ -14728,6 +14743,14 @@
       "type": "APP",
       "colours": [{"hex": "#91C3F8"}]  
     },
+    "EET":{
+			"callsign": "Aroeboesman Tower",
+      "pre": ["WAEE"],
+      "group": "TMA",
+      "frequency": "122.400",
+      "type": "APP",
+      "colours": [{"hex": "#8EE851"}]
+    },
     "WWA":{
       "callsign": "Kendari Approach",
       "pre": ["WAWW"],
@@ -14750,7 +14773,7 @@
       "group": "TMA",
       "frequency": "125.250",
       "type": "APP",
-      "colours": [{"hex": "#"}]  
+      "colours": [{"hex": "#97D2AF"}]  
     },
     "JJA":{
       "callsign": "Jayapura Radar",
@@ -14758,7 +14781,7 @@
       "group": "TMA",
       "frequency": "191.100",
       "type": "APP",
-      "colours": [{"hex": "#"}]  
+      "colours": [{"hex": "#F8BF96"}]  
     },
     "KKT":{
       "callsign": "Mopah Tower",
@@ -14768,13 +14791,37 @@
       "type": "APP",
       "colours": [{"hex": "#91C3F8"}]       
     },
+    "MGT":{
+			"callsign": "Djalaluddin Tower",
+      "pre": ["WAMG"],
+      "group": "TMA",
+      "frequency": "122.200",
+      "type": "APP",
+      "colours": [{"hex": "#FF11AA"}]
+    },
+    "MMA":{
+			"callsign": "Manado Approach",
+      "pre": ["WAMM"],
+      "group": "TMA",
+      "frequency": "119.000",
+      "type": "APP",
+      "colours": [{"hex": "#CAAAE6"}]
+    },
+    "FWT":{
+      "callsign": " Syukuran Aminuddin Tower",
+      "pre": ["WAFW"],
+      "group": "TWR",
+      "frequency": "122.805",
+      "type": "TWR",
+      "colours": [{"hex": "#CAAAE6"}]
+    },
     "QQA":{
       "callsign": "Tarakan Approach",
       "pre": ["WAQQ"],
       "group": "TMA",
       "frequency": "125.500",
       "type": "APP",
-      "colours": [{"hex": "#"}]      
+      "colours": [{"hex": "#91C3F8"}]      
     },
     "FFA":{
       "callsign": "Mutiara Sis Al-Jufri Tower",
@@ -14782,7 +14829,7 @@
       "group": "TMA",
       "frequency": "118.700",
       "type": "APP",
-      "colours": [{"hex": "#"}]
+      "colours": [{"hex": "#C5E332"}]
     },
     "YYA":{
       "callsign": "Jayapura Radar (Timika)",
@@ -14807,7 +14854,11 @@
       "colour": "#FFFFFF"
     },
     "PROC": {
-      "name": "Procedural Control Airspace",
+      "name": "Procedural Approach",
+      "colour": "#AA33AA"
+    },
+    "PTWR": {
+      "name": "Procedural Tower",
       "colour": "#AA33AA"
     }
   },
@@ -14834,469 +14885,469 @@
   },
   "airports": {
     "WAAA": {
-      "callsign": "SULTAN HASANUDDIN",
+      "callsign": "Hasanuddin",
       "coord": [ "-5.060833","119.554444"],
       "topdown": ["AAAF","AAA","MS","BI","WAAF"]
     },
     "WABA": {
-      "callsign": "WAGHETE",
+      "callsign": "Waghete Baru",
       "coord": [ "-4.067500","136.273611"]
     },
     "WABB": {
-      "callsign": "FRANS KAISIEPO",
+      "callsign": "Frans Kaisiepo",
       "coord": [ "-1.191944","136.110000"]
     },
     "WABD": {
-      "callsign": "MOANAMANI",
+      "callsign": "Moanamani",
       "coord": [ "-4.008889","136.036944"]
     },
     "WABF": {
-      "callsign": "NUMFOR",
+      "callsign": "Numfor",
       "coord": [ "-0.936389","134.866389"]
     },
     "WABI": {
-      "callsign": "DOUW ATURURE",
+      "callsign": "Douw",
       "coord": [ "-3.398056","135.397222"]
     },
     "WABO": {
-      "callsign": "STEVANUS RUMBEWAS",
+      "callsign": "Stevanus Rumbewas",
       "coord": [ "-1.830000","136.069444"]
     },
     "WABS": {
-      "callsign": "SINAK",
+      "callsign": "Sinak",
       "coord": [ "-3.821944","137.838056"]
     },
     "WADB": {
-      "callsign": "SULTAN MUHAMMAD SALA",
+      "callsign": "Salahuddin",
       "coord": [ "-8.540556","118.690278"]
     },
     "WADD": {
-      "callsign": "I GUSTI NGURAH RAI",
+      "callsign": "Ngurah Rai",
       "coord": [ "-8.747500","115.169167"],
       "topdown": ["DDAF","DDA","BI","WAAF"]
     },
     "WADE": {
-      "callsign": "LETKOL WISNU",
+      "callsign": "Letkol Wisnu",
       "coord": [ "-8.140556","114.617500"]
     },
     "WADL": {
-      "callsign": "ZAINUDDIN ABDUL MADJ",
+      "callsign": "Majid",
       "coord": [ "-8.757222","116.276667"],
       "topdown": ["DDA","BI","WAAF"]
     },
     "WADS": {
-      "callsign": "SULTAN MUHAMMAD KAHA",
+      "callsign": "Kaharuddin",
       "coord": [ "-8.488611","117.414167"]
     },
     "WADT": {
-      "callsign": "AMMAN MINERAL POTO T",
+      "callsign": "Amman Mineral Poto Tano",
       "coord": [ "-8.596944","116.791111"]
     },
     "WADY": {
-      "callsign": "BANYUWANGI",
+      "callsign": "Banyuwangi",
       "coord": [ "-8.310556","114.340278"],
       "topdown": ["DYT","DDAW","DDA","BI","WAAF"]
     },
     "WAEA": {
-      "callsign": "MAHAK BARU",
+      "callsign": "Mahak Baru",
       "coord": [ "1.406944","115.334167"]
     },
     "WAEB": {
-      "callsign": "MARIMOI",
+      "callsign": "Marimoi",
       "coord": [ "1.101944","127.703333"]
     },
     "WAEE": {
-      "callsign": "SULTAN BABULLAH",
+      "callsign": "Babullah",
       "coord": [ "0.831111","127.380278"]
     },
     "WAEG": {
-      "callsign": "GAMAR MALAMO",
+      "callsign": "Gamar Malamo",
       "coord": [ "1.836667","127.786944"]
     },
     "WAEH": {
-      "callsign": "WEDA BAY",
+      "callsign": "Weda Bay",
       "coord": [ "0.468889","127.952778"]
     },
     "WAEJ": {
-      "callsign": "GEBE I",
+      "callsign": "Gebe",
       "coord": [ "-0.080278","129.456944"]
     },
     "WAEK": {
-      "callsign": "KUABANG",
+      "callsign": "Kuabang",
       "coord": [ "1.186944","127.895000"]
     },
     "WAEL": {
-      "callsign": "OESMAN SADIK",
+      "callsign": "Oesman Sadik",
       "coord": [ "-0.637222","127.501944"]
     },
     "WAEM": {
-      "callsign": "BULI",
+      "callsign": "Buli",
       "coord": [ "0.919444","128.382500"]
     },
     "WAEO": {
-      "callsign": "DOFA BENJINA FALABIS",
+      "callsign": "Dofa Benjuna Falabishaya",
       "coord": [ "-1.783611","125.482500"]
     },
     "WAES": {
-      "callsign": "EMALAMO",
+      "callsign": "Emalamo",
       "coord": [ "-2.097778","125.963889"]
     },
     "WAEW": {
-      "callsign": "PITU",
+      "callsign": "Leo Wattimena (Morotai)",
       "coord": [ "2.050000","128.316667"]
     },
     "WAFB": {
-      "callsign": "TORAJA",
+      "callsign": "Toraja",
       "coord": [ "-3.185556","119.917222"]
     },
     "WAFC": {
-      "callsign": "TENTENA",
+      "callsign": "Tentena",
       "coord": [ "-2.250000","120.633333"]
     },
     "WAFD": {
-      "callsign": "LAGALIGO",
+      "callsign": "Lagaligo",
       "coord": [ "-3.084444","120.245000"]
     },
     "WAFF": {
-      "callsign": "MUTIARA SIS AL JUFRI",
+      "callsign": "Mutiara",
       "coord": [ "-0.916667","119.910278"]
     },
     "WAFJ": {
-      "callsign": "TAMPA PADANG",
+      "callsign": "Tampa Padang",
       "coord": [ "-2.592778","119.015833"]
     },
     "WAFK": {
-      "callsign": "RAMPI",
+      "callsign": "Rampi",
       "coord": [ "-2.123889","120.293889"]
     },
     "WAFL": {
-      "callsign": "SULTAN BANTILAN",
+      "callsign": "Sultan Bantilan",
       "coord": [ "1.123056","120.793056"]
     },
     "WAFM": {
-      "callsign": "ANDI JEMMA",
+      "callsign": "Andi Jemma",
       "coord": [ "-2.554722","120.324444"]
     },
     "WAFN": {
-      "callsign": "SEKO",
+      "callsign": "Seko",
       "coord": [ "-2.271944","119.895000"]
     },
     "WAFO": {
-      "callsign": "MOROWALI",
+      "callsign": "Morowali",
       "coord": [ "-2.202222","121.661667"]
     },
     "WAFP": {
-      "callsign": "KASIGUNCU",
+      "callsign": "Kasiguncu",
       "coord": [ "-1.416944","120.659167"]
     },
     "WAFQ": {
-      "callsign": "MAULANA PRINS MANDAP",
+      "callsign": "Maulana Prins Mandap",
       "coord": [ "-1.552778","123.552222"]
     },
     "WAFS": {
-      "callsign": "SUMARORONG",
+      "callsign": "Sumamorong",
       "coord": [ "-3.147778","119.303333"]
     },
     "WAFU": {
-      "callsign": "TANJUNG API",
+      "callsign": "Tanjung Api",
       "coord": [ "-0.863889","121.625000"]
     },
     "WAFW": {
-      "callsign": "SYUKURAN AMINUDDIN A",
+      "callsign": "Syukuran Aminuddin",
       "coord": [ "-1.040556","122.772500"]
     },
     "WAFY": {
-      "callsign": "POGOGUL",
+      "callsign": "Pogogui",
       "coord": [ "1.105278","121.415556"]
     },
     "WAFZ": {
-      "callsign": "PANUA POHUWATO",
+      "callsign": "Pohuwato",
       "coord": [ "0.464722","121.818333"]
     },
     "WAGA": {
-      "callsign": "KUALA KURUN",
+      "callsign": "Kuala Kurun",
       "coord": [ "-1.126389","113.874722"]
     },
     "WAGB": {
-      "callsign": "HAJI MUHAMMAD SIDIK",
+      "callsign": "Muara Teweh",
       "coord": [ "-1.021944","114.926389"]
     },
     "WAGF": {
-      "callsign": "KUALA PEMBUANG",
+      "callsign": "Kuala Pembuang",
       "coord": [ "-3.378056","112.541667"]
     },
     "WAGG": {
-      "callsign": "TJILIK RIWUT",
+      "callsign": "Tjilik Riwut",
       "coord": [ "-2.226667","113.944444"]
     },
     "WAGI": {
-      "callsign": "ISKANDAR",
+      "callsign": "Iskandar",
       "coord": [ "-2.704167","111.670556"]
     },
     "WAGM": {
-      "callsign": "SANGGU",
+      "callsign": "Sanggu",
       "coord": [ "-1.669167","114.897778"]
     },
     "WAGP": {
-      "callsign": "DIRUNG",
+      "callsign": "Purukcahu",
       "coord": [ "-0.689167","114.445000"]
     },
     "WAGS": {
-      "callsign": "H. ASAN",
+      "callsign": "H. Asan",
       "coord": [ "-2.501389","112.975556"]
     },
     "WAGT": {
-      "callsign": "TUMBANG SAMBA",
+      "callsign": "Tumbang Samba",
       "coord": [ "-1.467500","113.083056"]
     },
     "WAGU": {
-      "callsign": "BYAN",
+      "callsign": "Byan",
       "coord": [ "0.550833","116.100833"]
     },
     "WAHH": {
-      "callsign": "ADISUTJIPTO",
+      "callsign": "Adi Sucipto",
       "coord": [ "-7.786667","110.431944"]
     },
     "WAHI": {
-      "callsign": "YOGYAKARTA INTL",
+      "callsign": "Yogyakarta",
       "coord": [ "-7.904167","110.057500"]
     },
     "WAHL": {
-      "callsign": "TUNGGUL WULUNG",
+      "callsign": "Tunggul Wulung",
       "coord": [ "-7.644444","109.034722"]
     },
     "WAHP": {
-      "callsign": "JENDERAL BESAR SOEDI",
+      "callsign": "Soedirman",
       "coord": [ "-7.462500","109.421667"]
     },
     "WAHQ": {
-      "callsign": "ADI SOEMARMO",
+      "callsign": "Adi Soemarmo",
       "coord": [ "-7.513611","110.750556"],
       "topdown": ["HQT","HHA","SY","BI","WAAF"]
     },
     "WAHS": {
-      "callsign": "JENDERAL AHMAD YANI",
+      "callsign": "Ahmad Yani",
       "coord": [ "-6.976389","110.377222"],
       "topdown": ["HSA","RRAW","RRA","SY","BI","WAAF"]
     },
     "WAHU": {
-      "callsign": "DEWADARU",
+      "callsign": "Dewadaru",
       "coord": [ "-5.801944","110.477778"]
     },
     "WAJC": {
-      "callsign": "DABRA",
+      "callsign": "Dabra",
       "coord": [ "-3.270375","138.612192"]
     },
     "WAJG": {
-      "callsign": "BATOM",
+      "callsign": "Batom",
       "coord": [ "-4.444167","140.881667"]
     },
     "WAJI": {
-      "callsign": "MARARENA",
+      "callsign": "Mararena",
       "coord": [ "-1.874722","138.754444"]
     },
     "WAJJ": {
-      "callsign": "SENTANI",
+      "callsign": "Sentani",
       "coord": [ "-2.571944","140.511667"]
     },
     "WAJK": {
-      "callsign": "KIWIROK",
+      "callsign": "Kiwirok",
       "coord": [ "-4.713333","140.739444"]
     },
     "WAJM": {
-      "callsign": "MOLOF",
+      "callsign": "Molof",
       "coord": [ "-3.413333","140.552778"]
     },
     "WAJO": {
-      "callsign": "OKSIBIL",
+      "callsign": "Oksibil",
       "coord": [ "-4.907222","140.630278"]
     },
     "WAJR": {
-      "callsign": "WARIS",
+      "callsign": "Waris",
       "coord": [ "-3.233333","140.966667"]
     },
     "WAJS": {
-      "callsign": "SENGGEH",
+      "callsign": "Senggeh",
       "coord": [ "-3.442778","140.778333"]
     },
     "WAJU": {
-      "callsign": "UBRUB",
+      "callsign": "Ubrub",
       "coord": [ "-3.675278","140.881389"]
     },
     "WAKD": {
-      "callsign": "MINDIPTANAH",
+      "callsign": "Mindiptanah",
       "coord": [ "-5.879167","140.708611"]
     },
     "WAKE": {
-      "callsign": "BADE",
+      "callsign": "Bade",
       "coord": [ "-7.175556","139.583889"]
     },
     "WAKG": {
-      "callsign": "EWER",
+      "callsign": "Ewer",
       "coord": [ "-5.496111","138.080278"]
     },
     "WAKJ": {
-      "callsign": "KIMAAM",
+      "callsign": "Kimaam",
       "coord": [ "-7.979167","138.852500"]
     },
     "WAKK": {
-      "callsign": "MOPAH",
+      "callsign": "Mopah",
       "coord": [ "-8.521111","140.416944"]
     },
     "WAKL": {
-      "callsign": "BOMAKIA",
+      "callsign": "Bomakia",
       "coord": [ "-5.805000","139.867778"]
     },
     "WAKM": {
-      "callsign": "ASMAT",
+      "callsign": "Asmat",
       "coord": [ "-6.185278","138.640833"]
     },
     "WAKO": {
-      "callsign": "OKABA",
+      "callsign": "Okaba",
       "coord": [ "-8.095000","139.722500"]
     },
     "WAKP": {
-      "callsign": "KEPI",
+      "callsign": "Kepi",
       "coord": [ "-6.542222","139.331667"]
     },
     "WAKQ": {
-      "callsign": "SENGGO",
+      "callsign": "Senggo",
       "coord": [ "-5.690556","139.349722"]
     },
     "WAKT": {
-      "callsign": "TANAH MERAH",
+      "callsign": "Tanah Merah",
       "coord": [ "-6.096111","140.300000"]
     },
     "WAKY": {
-      "callsign": "KOROWAY BATU",
+      "callsign": "Koroway Batu",
       "coord": [ "-5.213889","140.023333"]
     },
     "WALA": {
-      "callsign": "SANGKIMAH",
+      "callsign": "Sangkimah",
       "coord": [ "0.383611","117.542500"]
     },
     "WALB": {
-      "callsign": "TANJUNG BARA",
+      "callsign": "Tanjung Bara",
       "coord": [ "0.561389","117.645000"]
     },
     "WALC": {
-      "callsign": "LNG BADAK",
+      "callsign": "LNG Badak (Bontang)",
       "coord": [ "0.118056","117.473611"]
     },
     "WALE": {
-      "callsign": "MELALAN MELAK",
+      "callsign": "Melalan Melak",
       "coord": [ "-0.205833","115.760556"]
     },
     "WALJ": {
-      "callsign": "DATAH DAWAI",
+      "callsign": "Datah Dawai",
       "coord": [ "0.807778","114.529444"]
     },
     "WALK": {
-      "callsign": "NUSANTARA",
+      "callsign": "Nusantara",
       "coord": [ "-1.158056","116.706667"]
     },
     "WALL": {
-      "callsign": "SULTAN AJI MUHAMMAD ",
+      "callsign": "Sultan Aji Muhammad Sulaiman (Sepinggan)",
       "coord": [ "-1.267500","116.893889"]
     },
     "WALN": {
-      "callsign": "LONG NAWANG",
+      "callsign": "Long Nawang",
       "coord": [ "1.797778","114.903889"]
     },
     "WALO": {
-      "callsign": "DATA DIAN",
+      "callsign": "Data Dian",
       "coord": [ "2.006944","115.151111"]
     },
     "WALQ": {
-      "callsign": "PUJUNGAN",
+      "callsign": "Pujungan",
       "coord": [ "-0.305556","117.415278"]
     },
     "WALS": {
-      "callsign": "AJI PANGERAN TUMENGG",
+      "callsign": "Aji Pangeran Tumenggung Pranoto",
       "coord": [ "-0.375556","117.251389"]
     },
     "WALT": {
-      "callsign": "TANJUNG SANTAN",
+      "callsign": "Tanjung Santan",
       "coord": [ "-0.083333","117.433333"]
     },
     "WALW": {
-      "callsign": "MUARA WAHAU",
+      "callsign": "Muara Wahau",
       "coord": [ "1.121667","116.851667"]
     },
     "WAMG": {
-      "callsign": "DJALALUDDIN",
+      "callsign": "Djalaluddin",
       "coord": [ "0.638056","122.852222"]
     },
     "WAMH": {
-      "callsign": "NAHA",
+      "callsign": "Naha",
       "coord": [ "3.685556","125.529167"]
     },
     "WAMI": {
-      "callsign": "BOLAANG MONGONDOW",
+      "callsign": "Bolaang Mongondow",
       "coord": [ "0.886111","124.033333"]
     },
     "WAMM": {
-      "callsign": "SAM RATULANGI",
+      "callsign": "Ratulangi",
       "coord": [ "1.545556","124.925000"]
     },
     "WAMN": {
-      "callsign": "MELONGUANE",
+      "callsign": "Melonguane",
       "coord": [ "4.006111","126.674722"]
     },
     "WAMO": {
-      "callsign": "SITARO",
+      "callsign": "Sitaro",
       "coord": [ "2.653056","125.424722"]
     },
     "WAMP": {
-      "callsign": "IMIP",
+      "callsign": "Imip",
       "coord": [ "-2.801389","122.141111"]
     },
     "WAMS": {
-      "callsign": "MIANGAS",
+      "callsign": "Miangas",
       "coord": [ "5.556111","126.576667"]
     },
     "WAOC": {
-      "callsign": "BERSUJUD",
+      "callsign": "Bersujud",
       "coord": [ "-3.413333","116.000833"]
     },
     "WAOG": {
-      "callsign": "SEBUKU",
+      "callsign": "Sebuku",
       "coord": [ "-3.626667","116.368611"]
     },
     "WAOH": {
-      "callsign": "KOTA BARU",
+      "callsign": "Kota Baru",
       "coord": [ "-3.991667","116.104167"]
     },
     "WAOK": {
-      "callsign": "GUSTI SJAMSIR ALAM",
+      "callsign": "Sjamsir Alam",
       "coord": [ "-3.295000","116.165833"]
     },
     "WAON": {
-      "callsign": "WARUKIN",
+      "callsign": "Warukin",
       "coord": [ "-2.212778","115.442500"]
     },
     "WAOO": {
-      "callsign": "SYAMSUDIN NOOR",
+      "callsign": "Syamsudin Noor",
       "coord": [ "-3.439722","114.752778"]
     },
     "WAPA": {
-      "callsign": "AMAHAI",
+      "callsign": "Amahai",
       "coord": [ "-3.346111","128.927222"]
     },
     "WAPC": {
-      "callsign": "BANDANEIRA",
+      "callsign": "Bandaneira",
       "coord": [ "-4.521944","129.904722"]
     },
     "WAPD": {
-      "callsign": "DOBO",
+      "callsign": "Dobo",
       "coord": [ "-5.774167","134.210000"]
     },
     "WAPF": {
-      "callsign": "KAREL SADSUITUBUN",
+      "callsign": "Karel Sadsuitubun",
       "coord": [ "-5.757500","132.761389"]
     },
     "WAPG": {
-      "callsign": "NAMROLE",
+      "callsign": "Namrole",
       "coord": [ "-3.852778","126.702500"]
     },
     "WAPL": {
@@ -15304,400 +15355,400 @@
       "coord": [ "-5.661667","132.730000"]
     },
     "WAPM": {
-      "callsign": "JOS ORNO IMSULA",
+      "callsign": "Jos Orno Imsula",
       "coord": [ "-8.139167","127.903333"]
     },
     "WAPN": {
-      "callsign": "NAMNIWEL",
+      "callsign": "Namniwel",
       "coord": [ "-3.143611","126.976389"]
     },
     "WAPO": {
-      "callsign": "LARAT",
+      "callsign": "Larat",
       "coord": [ "-7.128056","131.766944"]
     },
     "WAPP": {
-      "callsign": "PATTIMURA",
+      "callsign": "Pattimura",
       "coord": [ "-3.707500","128.089444"]
     },
     "WAPR": {
-      "callsign": "NAMLEA",
+      "callsign": "Namlea",
       "coord": [ "-3.238056","127.099167"]
     },
     "WAPS": {
-      "callsign": "MATHILDA BATLAYERI",
+      "callsign": "Mathilda Batlayeri",
       "coord": [ "-7.848056","131.334722"]
     },
     "WAPU": {
-      "callsign": "KUFAR",
+      "callsign": "Kufar",
       "coord": [ "-3.463333","130.787778"]
     },
     "WAPV": {
-      "callsign": "WAHAI",
+      "callsign": "Wahai",
       "coord": [ "-2.811111","129.485000"]
     },
     "WAQA": {
-      "callsign": "NUNUKAN",
+      "callsign": "Nunukan",
       "coord": [ "4.135833","117.666389"]
     },
     "WAQB": {
-      "callsign": "BUNYU",
+      "callsign": "Bunyu",
       "coord": [ "3.466667","117.866667"]
     },
     "WAQC": {
-      "callsign": "MARATUA",
+      "callsign": "Maratua",
       "coord": [ "2.203333","118.592500"]
     },
     "WAQD": {
-      "callsign": "TANJUNG HARAPAN",
+      "callsign": "Tanjung Harapan",
       "coord": [ "2.837500","117.373333"]
     },
     "WAQE": {
-      "callsign": "LONG ALANGO",
+      "callsign": "Long Alango",
       "coord": [ "2.930278","115.851111"]
     },
     "WAQG": {
-      "callsign": "BINUANG",
+      "callsign": "Binuang",
       "coord": [ "3.773056","115.855833"]
     },
     "WAQJ": {
-      "callsign": "YUVAI SEMARING",
+      "callsign": "Yuvai Semaring",
       "coord": [ "3.901111","115.692500"]
     },
     "WAQK": {
-      "callsign": "MANGKAJANG",
+      "callsign": "Mangkajang",
       "coord": [ "2.005000","117.741944"]
     },
     "WAQL": {
-      "callsign": "LONG APUNG",
+      "callsign": "Long Apung",
       "coord": [ "1.705556","114.971389"]
     },
     "WAQM": {
-      "callsign": "KOL. ROBERT ATTY BES",
+      "callsign": "Kol. Robert Atty Bessy",
       "coord": [ "3.573889","116.616389"]
     },
     "WAQQ": {
-      "callsign": "JUWATA",
+      "callsign": "Juwata",
       "coord": [ "3.326667","117.569444"]
     },
     "WAQT": {
-      "callsign": "KALIMARAU",
+      "callsign": "Kalimarau",
       "coord": [ "2.150000","117.433333"]
     },
     "WAQU": {
-      "callsign": "LONG LAYU",
+      "callsign": "Long Layu",
       "coord": [ "3.609722","115.699167"]
     },
     "WAQV": {
-      "callsign": "LONG PUJUNGAN",
+      "callsign": "Long Pujungan",
       "coord": [ "2.589167","115.797500"]
     },
     "WAQW": {
-      "callsign": "LONG SULE",
+      "callsign": "Long Sule",
       "coord": [ "1.383611","115.706944"]
     },
     "WARA": {
-      "callsign": "ABDULRACHMAN SALEH",
+      "callsign": "Abdulrachman",
       "coord": [ "-7.929444","112.711944"]
     },
     "WARC": {
-      "callsign": "NGLORAM",
+      "callsign": "Ngloram",
       "coord": [ "-7.194167","111.547222"]
     },
     "WARD": {
-      "callsign": "KEDIRI",
+      "callsign": "Dhoho",
       "coord": [ "-7.755000","111.947778"]
     },
     "WARE": {
-      "callsign": "NOTO HADINEGORO",
+      "callsign": "Noto Hadinegoro",
       "coord": [ "-8.243333","113.696111"]
     },
     "WARI": {
-      "callsign": "ISWAHYUDI",
+      "callsign": "Iswahyudi",
       "coord": [ "-7.610000","111.433333"]
     },
     "WARP": {
-      "callsign": "PAGERUNGAN",
+      "callsign": "Pagerungan",
       "coord": [ "-6.956667","115.932500"]
     },
     "WARR": {
-      "callsign": "JUANDA",
+      "callsign": "Juanda",
       "coord": [ "-7.380833","112.786389"],
       "topdown": ["RRAF","RRAE","RRA","SY","BI","WAAF"]
     },
     "WART": {
-      "callsign": "TRUNOJOYO",
+      "callsign": "Trunojoyo",
       "coord": [ "-7.023611","113.890833"]
     },
     "WARW": {
-      "callsign": "HARUN THOHIR",
+      "callsign": "Harun Thohir",
       "coord": [ "-5.723611","112.676667"]
     },
     "WASA": {
-      "callsign": "AYAWASI",
+      "callsign": "Ayawasi",
       "coord": [ "-1.159722","132.465278"]
     },
     "WASB": {
-      "callsign": "KABARE",
+      "callsign": "Kabare",
       "coord": [ "-0.053333","131.001111"]
     },
     "WASF": {
-      "callsign": "SIBORU",
+      "callsign": "Siboru",
       "coord": [ "-2.928056","132.089444"]
     },
     "WASI": {
-      "callsign": "INANWATAN",
+      "callsign": "Inanwatan",
       "coord": [ "-2.126667","132.163056"]
     },
     "WASK": {
-      "callsign": "UTAROM",
+      "callsign": "Utarom",
       "coord": [ "-3.644722","133.695556"]
     },
     "WASN": {
-      "callsign": "MARINDA",
+      "callsign": "Marinda",
       "coord": [ "-0.431944","130.771944"]
     },
     "WASO": {
-      "callsign": "BABO",
+      "callsign": "Babo",
       "coord": [ "-2.535278","133.438889"]
     },
     "WASS": {
-      "callsign": "DOMINE EDUARD OSOK",
+      "callsign": "Eduard",
       "coord": [ "-0.891667","131.286944"]
     },
     "WAST": {
-      "callsign": "TEMINABUAN",
+      "callsign": "Teminabuan",
       "coord": [ "-1.445556","132.020556"]
     },
     "WASU": {
-      "callsign": "AYAMARU",
+      "callsign": "Ayamaru",
       "coord": [ "-1.318333","132.282500"]
     },
     "WATA": {
-      "callsign": "A.A BERE TALLO",
+      "callsign": "A.A Bere Tallo",
       "coord": [ "-9.075556","124.903056"]
     },
     "WATB": {
-      "callsign": "SOA",
+      "callsign": "Soa",
       "coord": [ "-8.708611","121.057222"]
     },
     "WATC": {
-      "callsign": "FRANSISKUS XAVERIUS ",
+      "callsign": "Frans Xaverius Seda",
       "coord": [ "-8.637500","122.236944"]
     },
     "WATE": {
-      "callsign": "H. HASAN AROEBOESMAN",
+      "callsign": "H. Hasan Aroeboesman",
       "coord": [ "-8.848056","121.663333"]
     },
     "WATG": {
-      "callsign": "FRANS SALES LEGA",
+      "callsign": "Frans Sales Lega",
       "coord": [ "-8.598611","120.479722"]
     },
     "WATK": {
-      "callsign": "LEDE KALUMBANG",
+      "callsign": "Lede Kalumbang",
       "coord": [ "-9.412222","119.246944"]
     },
     "WATL": {
-      "callsign": "GEWAYANTANA",
+      "callsign": "Gewayantana",
       "coord": [ "-8.275000","123.000000"]
     },
     "WATM": {
-      "callsign": "MALI",
+      "callsign": "Mali",
       "coord": [ "-8.135278","124.594444"]
     },
     "WATO": {
-      "callsign": "KOMODO",
+      "callsign": "Komodo",
       "coord": [ "-8.486389","119.887500"]
     },
     "WATP": {
-      "callsign": "KABIR",
+      "callsign": "Pantar",
       "coord": [ "-8.245833","124.218611"]
     },
     "WATQ": {
-      "callsign": "JOHN BECKER",
+      "callsign": "John Becker",
       "coord": [ "-8.018056","127.199722"]
     },
     "WATR": {
-      "callsign": "DAVID CONSTANTIJN SA",
+      "callsign": "David Constantijn Saudele",
       "coord": [ "-10.766944","123.074167"]
     },
     "WATS": {
-      "callsign": "TARDAMU",
+      "callsign": "Tardamu",
       "coord": [ "-10.493889","121.846111"]
     },
     "WATT": {
-      "callsign": "EL TARI",
+      "callsign": "El Tari",
       "coord": [ "-10.177778","123.663889"]
     },
     "WATU": {
-      "callsign": "UMBU MEHANG KUNDA",
+      "callsign": "Umbu",
       "coord": [ "-9.668056","120.298889"]
     },
     "WATW": {
-      "callsign": "WUNOPITO",
+      "callsign": "Wunopito",
       "coord": [ "-8.366389","123.438056"]
     },
     "WAUA": {
-      "callsign": "ANGGI",
+      "callsign": "Anggi",
       "coord": [ "-1.327500","133.913056"]
     },
     "WAUB": {
-      "callsign": "BINTUNI",
+      "callsign": "Bintuni",
       "coord": [ "-2.100833","133.513611"]
     },
     "WAUE": {
-      "callsign": "WERUR",
+      "callsign": "Werur",
       "coord": [ "-0.422500","132.186944"]
     },
     "WAUK": {
-      "callsign": "KEBAR",
+      "callsign": "Kebar",
       "coord": [ "-0.809722","133.055278"]
     },
     "WAUM": {
-      "callsign": "MERDEY",
+      "callsign": "Merdey",
       "coord": [ "-1.591389","133.295833"]
     },
     "WAUR": {
-      "callsign": "ABRESO",
+      "callsign": "Abreso",
       "coord": [ "-1.503333","134.188889"]
     },
     "WAUU": {
-      "callsign": "RENDANI",
+      "callsign": "Rendani",
       "coord": [ "-0.893889","134.050278"]
     },
     "WAUW": {
-      "callsign": "WASIOR",
+      "callsign": "Wasior",
       "coord": [ "-2.722222","134.506389"]
     },
     "WAVA": {
-      "callsign": "MULIA",
+      "callsign": "Mulia",
       "coord": [ "-3.701111","137.960278"]
     },
     "WAVB": {
-      "callsign": "JAYAWIJAYA",
+      "callsign": "Jayawijaya",
       "coord": [ "-3.684781","138.677319"]
     },
     "WAVC": {
-      "callsign": "ILU",
+      "callsign": "Illu",
       "coord": [ "-3.708333","138.200278"]
     },
     "WAVD": {
-      "callsign": "NOP GOLIAT DEKAI",
+      "callsign": "Dekai",
       "coord": [ "-4.853611","139.486667"]
     },
     "WAVE": {
-      "callsign": "ELELIM",
+      "callsign": "Elelim",
       "coord": [ "-3.785278","139.384167"]
     },
     "WAVG": {
-      "callsign": "KARUBAGA",
+      "callsign": "Karubaga",
       "coord": [ "-3.686569","138.479364"]
     },
     "WAVL": {
-      "callsign": "KELILA",
+      "callsign": "Kelila",
       "coord": [ "-3.728056","138.710833"]
     },
     "WAVM": {
-      "callsign": "MANGGELUM",
+      "callsign": "Manggelum",
       "coord": [ "-5.423889","140.433889"]
     },
     "WAVT": {
-      "callsign": "TIOM",
+      "callsign": "Tiom",
       "coord": [ "-3.924889","138.454083"]
     },
     "WAVV": {
-      "callsign": "WAMENA",
+      "callsign": "Wamena",
       "coord": [ "-4.097500","138.951389"]
     },
     "WAWA": {
-      "callsign": "POMALA",
+      "callsign": "Pomala",
       "coord": [ "-4.181389","121.614722"]
     },
     "WAWB": {
-      "callsign": "BETOAMBARI",
+      "callsign": "Betoambari",
       "coord": [ "-5.486944","122.569444"]
     },
     "WAWC": {
-      "callsign": "MARANGGO",
+      "callsign": "Maranggo",
       "coord": [ "-5.767222","123.918889"]
     },
     "WAWD": {
-      "callsign": "MATAHORA",
+      "callsign": "Matahora",
       "coord": [ "-5.290556","123.636111"]
     },
     "WAWH": {
-      "callsign": "H. AROEPPALA",
+      "callsign": "H. Aroepala",
       "coord": [ "-6.176667","120.437222"]
     },
     "WAWN": {
-      "callsign": "ARUNG PALAKKA",
+      "callsign": "Arung Palakka",
       "coord": [ "-4.458889","120.306944"]
     },
     "WAWP": {
-      "callsign": "SANGIA NIBANDERA",
+      "callsign": "Sangia Nibandera",
       "coord": [ "-4.345000","121.522222"]
     },
     "WAWR": {
-      "callsign": "SUGIMANURU",
+      "callsign": "Sugimanuru",
       "coord": [ "-4.761944","122.570000"]
     },
     "WAWS": {
-      "callsign": "SOROWAKO",
+      "callsign": "Sorowako",
       "coord": [ "-2.531111","121.357222"]
     },
     "WAWW": {
-      "callsign": "HALU OLEO",
+      "callsign": "Halu Oleo",
       "coord": [ "-4.084167","122.413056"]
     },
     "WAYA": {
-      "callsign": "ALAMA",
+      "callsign": "Alama",
       "coord": [ "-4.333333","137.833333"]
     },
     "WAYB": {
-      "callsign": "BILORAI",
+      "callsign": "Bilorai",
       "coord": [ "-3.739722","137.030833"]
     },
     "WAYE": {
-      "callsign": "ENAROTALI",
+      "callsign": "Enarotali",
       "coord": [ "-3.926111","136.380278"]
     },
     "WAYG": {
-      "callsign": "AKIMUGA",
+      "callsign": "Akimuga",
       "coord": [ "-4.603056","137.659167"]
     },
     "WAYI": {
-      "callsign": "BILAI",
+      "callsign": "Bilai",
       "coord": [ "-3.733333","136.833333"]
     },
     "WAYJ": {
-      "callsign": "JILA",
+      "callsign": "Jila",
       "coord": [ "-4.246944","137.595278"]
     },
     "WAYK": {
-      "callsign": "KOKONAO",
+      "callsign": "Kokonao",
       "coord": [ "-4.711389","136.436111"]
     },
     "WAYL": {
-      "callsign": "ILAGA",
+      "callsign": "Ilaga",
       "coord": [ "-3.977222","137.620278"]
     },
     "WAYM": {
-      "callsign": "KEBO",
+      "callsign": "Kebo",
       "coord": [ "-3.823889","136.386111"]
     },
     "WAYN": {
-      "callsign": "JITA",
+      "callsign": "Jita",
       "coord": [ "-4.857500","137.701111"]
     },
     "WAYO": {
-      "callsign": "OBANO",
+      "callsign": "Obano",
       "coord": [ "-3.916667","136.216667"]
     },
     "WAYW": {
-      "callsign": "WAREN",
+      "callsign": "Waren",
       "coord": [ "-2.212500","136.440278"]
     },
     "WAYY": {
-      "callsign": "MOZES KILANGIN",
+      "callsign": "Kilangin",
       "coord": [ "-4.531111","136.883333"]
     }
   }
